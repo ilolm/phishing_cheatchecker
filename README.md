@@ -19,7 +19,7 @@ Follow these steps to set up and run the cheatchecker phishing template:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ilolm/phishing_cheatchecker.git
-   cd yourrepository
+   cd phishing_cheatchecker
    ```
 
 2. **Add Your Payload**:
