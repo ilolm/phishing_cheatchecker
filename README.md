@@ -7,7 +7,7 @@ This project is designed for **educational purposes**, providing a simple phishi
 ## ✨ Features
 
 - **🛠 Dockerized Environment**: Easy setup using Docker.
-- **📄 Included HTML Phishing Page**: A ready-to-use HTML page designed to mimic a common login interface.
+- **📦 Malicious File Download**: Serve executable (`.exe`) payload as convenient download.
 - **🔄 Customizable Payload**: Simple to replace the payload with your own executable.
 
 ---
@@ -38,6 +38,7 @@ Follow these steps to set up and run the cheatchecker phishing template:
    
 5. **Access the Phishing Page**:
     - Open your browser and navigate to http://localhost to view the phishing page.
+    - Test the download buttom.
 
 ---
 
