@@ -42,7 +42,7 @@ Follow these steps to set up and run the cheatchecker phishing template:
 
 ---
 
-## 🖼️ Screenshotts
+## 🖼️ Screenshots
 
 ![Screenshot](./screenshot_1.png)
 ![Screenshot](./screenshot_2.png)
